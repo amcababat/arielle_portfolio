@@ -31,12 +31,12 @@ a:hover {
 #nav-links {
     text-align: right;
     width: 40%;
+    margin-right: 2%;
 }
 
 ul {
     list-style-type: none;
     text-align: center;
-    padding: 20px;
 }
 
 li {
@@ -75,6 +75,7 @@ footer {
 
 .title-size {
     font-size: 14pt;
+    width: 10%;
 }
 
 #resume {
