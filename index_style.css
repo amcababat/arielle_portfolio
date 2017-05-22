@@ -34,12 +34,12 @@ a:hover {
 
 ul {
     list-style-type: none;
-    padding: 15px;
 }
 
 #nav-links {
     text-align: right;
     width: 35%;
+    margin-right: 20px;
 }
 
 li {
@@ -58,7 +58,7 @@ h1 {
 #intro {
     text-align: center;
     padding: 10px;
-    margin-top: 10%;
+    margin-top: 8%;
 }
 
 .center {
