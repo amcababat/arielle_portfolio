@@ -34,6 +34,15 @@ a:hover {
     text-align: right;
 }
 
+.img-size {
+    width: 25%;
+    margin-right: 10px;
+}
+
+.over-height {
+    height: 100%;
+}
+
 ul {
     list-style-type: none;
 }

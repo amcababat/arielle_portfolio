@@ -47,6 +47,14 @@ ul {
     padding: 10px;
 }
 
+.img-size {
+    width: 100%;
+}
+
+#plush-size {
+    width: 55%;
+}
+
 li {
     display: inline;
 }
