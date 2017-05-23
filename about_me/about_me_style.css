@@ -32,6 +32,7 @@ a:hover {
     text-align: right;
     width: 40%;
     margin-right: 2%;
+    padding: 10px;
 }
 
 ul {
@@ -74,7 +75,6 @@ footer {
 
 .title-size {
     font-size: 16pt;
-    width: 20%;
     padding: 20px;
 }
 
