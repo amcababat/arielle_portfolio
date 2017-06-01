@@ -162,6 +162,10 @@ aside {
     width: 100%;
 }
 
+.aside_full {
+    height: 100%;
+}
+
 aside p {
     margin-left: auto;
     margin-right: auto;
