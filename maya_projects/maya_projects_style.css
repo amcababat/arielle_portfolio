@@ -139,6 +139,13 @@ aside h2 {
     font-size: 20pt;
 }
 
+#close_2 {
+    position: absolute;
+    top: 10%;
+    right: 30px;
+    font-size: 20pt;
+}
+
 .aside_link {
     color: white;
 }
