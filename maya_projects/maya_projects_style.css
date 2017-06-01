@@ -138,3 +138,7 @@ aside h2 {
     right: 30px;
     font-size: 20pt;
 }
+
+.aside_link {
+    color: white;
+}
