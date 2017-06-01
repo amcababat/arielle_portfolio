@@ -20,6 +20,10 @@ a:hover {
     padding: 33.33%;
 }
 
+.col_3 {
+    width: 33.33%;
+}
+
 .float-right {
     float: right;
 }
@@ -48,6 +52,10 @@ ul {
 }
 
 .img-size {
+    width: 100%;
+}
+
+#tropiscoop_size {
     width: 100%;
 }
 
@@ -95,6 +103,14 @@ h1 {
 }
 
 #code {
+    width: 31.33%;
+    height: 400px;
+    float: left;
+    text-align: center;
+    margin: 1%;
+}
+
+#project_4 {
     width: 31.33%;
     height: 400px;
     float: left;
@@ -181,6 +197,14 @@ aside #close_3 {
     font-size: 20pt;
 }
 
+aside #close_4 {
+    position: absolute;
+    top: 10%;
+    right: 30px;
+    font-size: 20pt;
+    height: 100%;
+}
+
 .img-aside {
     width: 20%;
 }
@@ -202,6 +226,10 @@ aside #close_3 {
     margin-left: 20%;
 }
 
+.img-aside {
+    width: 20%;
+}
+
 
 /*interface result size*/
 
@@ -213,4 +241,8 @@ aside #close_3 {
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
+}
+
+.aside_link {
+    color: white;
 }
