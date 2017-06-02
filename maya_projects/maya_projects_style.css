@@ -35,7 +35,7 @@ a:hover {
 }
 
 .img-size {
-    width: 25%;
+    width: 20%;
     margin-right: 10px;
 }
 
@@ -137,8 +137,8 @@ aside h2 {
 
 .video_pos {
     position: absolute;
-    left: 30%;
-    padding: 30px;
+    left: 20%;
+    padding: 20px;
 }
 
 #close_2 {
@@ -150,4 +150,8 @@ aside h2 {
 
 .aside_link {
     color: white;
+}
+
+.gallery_pos {
+    margin-left: 10%;
 }
