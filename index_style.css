@@ -189,10 +189,6 @@ aside #close_3 {
     margin-right: 20px;
 }
 
-#paragraph_2 {
-    height: 100%;
-}
-
 
 /*apply to ul*/
 
@@ -219,4 +215,8 @@ aside #close_3 {
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
+}
+
+.dis_img {
+    margin-right: 10px;
 }
