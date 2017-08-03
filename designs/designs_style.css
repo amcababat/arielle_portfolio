@@ -210,7 +210,6 @@ aside #close_4 {
     top: 10%;
     right: 30px;
     font-size: 20pt;
-    height: 100%;
 }
 
 .img-aside {
@@ -236,6 +235,10 @@ aside #close_4 {
 
 .img-aside {
     width: 20%;
+}
+
+.img_mar_right {
+    margin-right: 20px;
 }
 
 
